@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python3 yt-transcript.py "youtube-url"
+python3 yt_transcript.py "youtube-url"
 ```
 
 ## Acknowledgements
