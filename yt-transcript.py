@@ -45,7 +45,7 @@ def transcribe_audio_segment(segment, file_format="mp3"):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python youtube_transcribe.py [youtube_url]")
+        print("Usage: python yt_transcribe.py [youtube_url]")
         return
 
     youtube_url = sys.argv[1]
